@@ -90,4 +90,3 @@ After doing so, we can use medley interactively in a codeblock:
 
 </div>
 
-<script src="js/main.js" type="application/javascript"></script>
